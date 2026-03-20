@@ -1,1 +1,1 @@
-# owasp-2025
+# OWASP-Top-10-2025-TryHackMe-Writeups
