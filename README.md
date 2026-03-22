@@ -106,9 +106,10 @@ Now lets decrypt it using decryptors in online like https://www.devglan.com/onli
 
 Which reveals the flag:
 
-<img width="631" height="826" alt="image" src="https://github.com/user-attachments/assets/b6b1f07a-0b9e-4232-8194-45283cee8781" />
+<img width="762" height="504" alt="Screenshot 2026-03-20 165249" src="https://github.com/user-attachments/assets/27a35963-a64e-4601-aa58-75abb4124f52" />
 
-Flag: `THM{CRYPTO_FAILURE_H4RDCOD3D_K3Y}`
+
+Flag: `THM{WEAK_CRYPTO_FLAG}`
 
 ## A05: Injection
 
